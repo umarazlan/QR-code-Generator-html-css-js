@@ -43,7 +43,7 @@ qr-generator/
 ---
 
 ## 📸 Screenshot
-(Add your project screenshot here, e.g. `![QR Generator Screenshot](screenshot.png)`)
+ ![QR Generator Screenshot](screenshot.png)
 
 ---
 
@@ -63,6 +63,7 @@ Clone the project using Git:
 git clone
 ```bash
  https://github.com/umarazlan/QR-code-Generator-html-css-js.git
+
 
 
 
