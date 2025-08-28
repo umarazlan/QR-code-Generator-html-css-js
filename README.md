@@ -24,8 +24,11 @@ It allows users to quickly generate scannable QR codes for any text or URL using
 ## 📂 Project Structure
 
 qr-generator/
+
 │── index.html # Main HTML file
+
 │── Qr.css # Styling file
+
 │── README.md # Project documentation
 
 
@@ -44,13 +47,6 @@ qr-generator/
 
 ---
 
-## 💻 Run Locally
-
-Clone the project using Git:
-git clone
-```bash
- https://github.com/umarazlan/QR-code-Generator-html-css-js.git
-
 ## 💡 Usage
 Simply open `index.html` in your browser.  
 No server setup required.  
@@ -61,3 +57,12 @@ No server setup required.
 This project is licensed under the **MIT License** – feel free to use and modify it.  
 
 ---
+## 💻 Run Locally
+
+Clone the project using Git:
+git clone
+```bash
+ https://github.com/umarazlan/QR-code-Generator-html-css-js.git
+
+
+
